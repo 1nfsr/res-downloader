@@ -28,19 +28,13 @@
       </div>
       <div class="flex flex-col">
         <div class="text-2xl font-bold text-emerald-600">
-          支持市面上几乎所有的网络应用
+          支持
         </div>
         <div class="grid grid-cols-5 gap-2 text-sm m-4 text-slate-400">
           <span>抖音</span>
           <span>快手</span>
           <span>小红书</span>
           <span>视频号</span>
-          <span>小程序</span>
-          <span>公众号</span>
-          <span>酷狗音乐</span>
-          <span>QQ音乐</span>
-          <span>QQ微视</span>
-          <span>......</span>
         </div>
       </div>
       <div class="flex w-full text-sm justify-between pt-8 text-slate-400">
