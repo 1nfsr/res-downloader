@@ -1,6 +1,6 @@
 {
   "$schema": "https://wails.io/schemas/config.v2.json",
-  "name": "res-downloader",
+  "name": "res-downloader-修改版",
   "outputfilename": "res-downloader",
   "frontend:install": "npm install",
   "frontend:build": "npm run build",
@@ -13,7 +13,7 @@
   "info": {
     "companyName": "res-downloader",
     "productName": "res-downloader",
-    "productVersion": "3.0.3",
+    "productVersion": "3.0.31",
     "copyright": "Copyright © 2023",
     "comments": "This is a high-value, high-performance, and diverse resource downloader called res-downloader."
   }
